@@ -1,3 +1,5 @@
+<%
+
 /*
  * Copyright (c) 2005-2014, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
  *
@@ -16,7 +18,6 @@
  * under the License.
  */
 
-<%
 var log = new Log("asmonitor.index");
 var error=[];
 var caramel = require('caramel');
